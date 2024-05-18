@@ -24,5 +24,5 @@
 ### Idioms
 - English `B1`
 - Spanish `C1`
-## More about me
-<h2>Mainly I make webs because are more compatible with the users devices and I can more  beauty and working things in the others technologies yet still in console (text terminal) form with the web I can make visual forms.<h2>
+### More about me
+```Mainly I make webs because are more compatible with the users devices and I can more  beauty and working things in the others technologies yet still in console (text terminal) form with the web I can make visual forms.```
