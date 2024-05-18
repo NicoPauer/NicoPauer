@@ -1,5 +1,8 @@
-### Hello I'm Nico Pauer an autistic Programmer and Web Developer from Bahía Blanca city with love
+### Hello I'm Nico Pauer an autistic Programmer and Web Developer from Bahía Blanca, Buenos Aires, Argentina city with love
 ## Langauges where I'm better
+## Idioms
+- English `B1`
+- Spanish `C1`
 ## Programming
 |Javascript|Python|C|Java|
 |----------|------|-|----|
