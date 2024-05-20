@@ -3,7 +3,7 @@
 
 ## Programming Languages
 
-|<img width = "64" height = "64" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" alt = "JS" />Javascript|<img width = "64" height = "64" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg" alt = "Py" /><br />Python|<img width = "64" height = "64" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.svg" alt = "C" /><br />C|<img width = "64" height = "64" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg" alt = "Java" /><br />Java|
+|<img width = "64" height = "64" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" alt = "JS" />Javascript|<img width = "64" height = "64" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg" alt = "Py" /><br />Python|<img width = "32" height = "64" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.svg" alt = "C" /><br />C|<img width = "64" height = "64" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg" alt = "Java" /><br />Java|
 |----------|------|-|----|
 |User oriented|Make simple automation scripts|Only terminal programs|Only the basic and something of objects Oriented Programming|
 |Manipulate tags|Write and read files|Conditional, loops, input and output|Create a class and fields|
