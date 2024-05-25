@@ -1,4 +1,4 @@
-<img width = "640" height = "640" src = "alegoric.svg" alt = "(resume artistic image)" />
+<img width = "340" height = "340" src = "alegoric.svg" alt = "(resume artistic image)" />
 
 ### Hello I'm Nico Pauer an autistic Programmer and Web Developer from Bahía Blanca, Buenos Aires, Argentina city with love
 
