@@ -1,6 +1,6 @@
-<img width = "340" height = "340" src = "alegoric.svg" alt = "(resume artistic image)" />
+### Hello I'm Nico Pauer an autistic Programmer and Web Developer from Bahía Blanca, Buenos Aires, Argentina city with love.
 
-### Hello I'm Nico Pauer an autistic Programmer and Web Developer from Bahía Blanca, Buenos Aires, Argentina city with love
+<img width = "340" height = "340" src = "alegoric.svg" alt = "(resume artistic image)" />
 
 ## Programming Languages
 
