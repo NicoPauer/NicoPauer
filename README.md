@@ -1,7 +1,5 @@
 ### Hello I'm Nico Pauer an autistic Programmer and Web Developer from Bahía Blanca, Buenos Aires, Argentina city with love.
 
-<img width = "340" height = "340" src = "alegoric.svg" alt = "(resume artistic image)" />
-
 ## Programming Languages
 
 |<img width = "64" height = "64" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" alt = "JS" />Javascript|<img width = "64" height = "64" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg" alt = "Py" /><br />Python|<img width = "64" height = "64" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.svg" alt = "C" /><br />C|<img width = "64" height = "64" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg" alt = "Java" /><br />Java|
@@ -10,6 +8,9 @@
 |Manipulate tags|Write and read files|Conditional, loops, input and output|Create a class and fields|
 |Create functions|Use regular expresion|Make good programs with variables and conditionals|Use modifiers private and public|
 |Use JSON|Use dictionaries|Create general algorithms passable to another programming languages|Handling exceptions|
+
+<img width = "680" height = "680" src = "alegoric.svg" alt = "(resume artistic image)" />
+
 ## Other Informatic Langueges that I manage
 |<img width = "32" height = "42" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg" alt = "HTML" /><br />HTML|<img width = "32" height = "42" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.svg" alt = "CSS" /><br />CSS|BASH|SQL|
 |----|---|----|---|
