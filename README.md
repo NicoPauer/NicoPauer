@@ -9,7 +9,7 @@
 |Create functions|Use regular expresion|Make good programs with variables and conditionals|Use modifiers private and public|
 |Use JSON|Use dictionaries|Create general algorithms passable to another programming languages|Handling exceptions|
 
-<img width = "680" height = "680" src = "alegoric.svg" alt = "(resume artistic image)" />
+<img width = "480" height = "340" src = "alegoric.svg" alt = "(resume artistic image)" />
 
 ## Other Informatic Langueges that I manage
 |<img width = "32" height = "42" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg" alt = "HTML" /><br />HTML|<img width = "32" height = "42" src = "https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.svg" alt = "CSS" /><br />CSS|BASH|SQL|
